@@ -3,7 +3,7 @@
 _Delivered May 4th, 2014 at [PyData SV](http://pydata.org/sv2014/abstracts/#217)_
 
 * [Presentation](https://speakerdeck.com/clearspandex/data-engineering-101-building-your-first-data-product-pydata-sv-2014) (also in [slides.pdf](slides.pdf))
-* [Example code](http://nbviewer.ipython.org/github/Jay-Oh-eN/pydatasv2014/blob/master/notebook.ipynb) ([notebook.ipynb](notebook.ipynb))
+* [Example code](http://nbviewer.ipython.org/github/Jay-Oh-eN/pydatasv2014/blob/master/example.ipynb) ([example.ipynb](notebook.ipynb))
 * [data](data.pkl)
 
 Often times there exists a divide between data teams, engineering, and product managers in organizations, but with the dawn of data driven companies/applications, it is more prescient now than ever to be able to automate your analyses to personalize your users experiences. LinkedIn's People you May Know, Netflix and Pandora's recommenders, and Amazon's eerily custom shopping experience have all shown us why it is essential to leverage data if you want to stay relevant as a company.
